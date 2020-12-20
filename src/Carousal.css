@@ -1,0 +1,9 @@
+.carousal__item {
+  width: 1500px;
+  height: 400px;
+  background-color: rgb(34, 56, 52);
+}
+
+.carousal-march {
+  margin-bottom: 1px solid red;
+}
